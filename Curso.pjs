@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="14.0" key="{23925043-EB70-4ABB-90D2-62F002EFF173}">
+	<children>
+		<child name="Curso" key="{2AA18EB3-09B7-4B38-A4C7-013E75C8843C}" path="Curso\Curso.mds" />
+	</children>
+	<testItems key="{3AF782BA-3E20-4B76-8D58-18FB3F641D39}">
+		<children>
+			<testItem key="{2AA18EB3-09B7-4B38-A4C7-013E75C8843C}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{8D31B43C-55CF-47A9-B2BA-0740E8E0E924}" />
+	<analysis key="{0E1817F6-22D9-4B32-B621-F3C00DF06889}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
