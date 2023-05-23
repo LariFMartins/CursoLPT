@@ -2,5 +2,6 @@
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
 		<child name="Aula1" key="{B58DC516-3694-49F7-ABC9-3EFFDEF13387}" path="Aula1.sd" />
+		<child name="Aula2" key="{174833A7-38AA-4722-99F7-7BBE73CCBB6C}" path="Aula2.sd" />
 	</children>
 </Root>

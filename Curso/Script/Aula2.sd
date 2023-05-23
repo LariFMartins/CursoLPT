@@ -1,0 +1,20 @@
+﻿procedure variavel;
+var 
+  valor : integer;
+  palavra : string;
+begin
+  valor :=10;
+  palavra :=  'teste string.';
+  Log.Message(valor);
+  Log.Message(palavra);
+end;
+
+procedure inteiro;
+var
+  valor1, valor2, total :  integer;
+begin
+  valor1 := 500;
+  valor2 := 1000;
+  total := valor1 + valor2;
+  Log.Message(total);
+end;
